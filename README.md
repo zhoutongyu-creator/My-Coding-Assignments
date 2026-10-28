@@ -57,10 +57,12 @@ Play it here: https://arcade.makecode.com/S00555-74045-05842-49322
 
 ## Screenshots
 ### MakeCode Blocks and Multiplication Question<img width="2816" height="1540" alt="屏幕截图 2026-10-26 011006" src="https://github.com/user-attachments/assets/bb55daa0-2c10-4523-b86f-3fe7f9dd8790" />
+
 The game uses random multiplication questions, answer checking, health values and a streak system.
 
 ## Screenshots
 <img width="696" height="958" alt="屏幕截图 2026-10-23 012349" src="https://github.com/user-attachments/assets/73082a84-27dc-4151-9d1b-0ae20882d9c2" />
+
 The Super Attack is triggered after 5 correct answers in a row. The enemy also changes appearance when its health becomes low.
 
 
